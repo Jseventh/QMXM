@@ -1,0 +1,8 @@
+Dependencies for Project 'last', Target 'Target 1': (DO NOT MODIFY !)
+F (..\src\ADC.c)(0x5927833E)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I C:\dpj\last\out\RTE-I C:\Keil_v5\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="520"-o .\adc.o --omf_browse .\adc.crf --depend .\adc.d)
+F (..\src\KEY.c)(0x59278373)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I C:\dpj\last\out\RTE-I C:\Keil_v5\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="520"-o .\key.o --omf_browse .\key.crf --depend .\key.d)
+F (..\src\LCD1602.c)(0x592784A3)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I C:\dpj\last\out\RTE-I C:\Keil_v5\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="520"-o .\lcd1602.o --omf_browse .\lcd1602.crf --depend .\lcd1602.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h)(0x4FF4FDF8)
+F (..\src\main.c)(0x5927876B)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I C:\dpj\last\out\RTE-I C:\Keil_v5\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="520"-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h)(0x4FF4FDF8)
+F (..\src\UART.c)(0x59278356)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I C:\dpj\last\out\RTE-I C:\Keil_v5\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="520"-o .\uart.o --omf_browse .\uart.crf --depend .\uart.d)
